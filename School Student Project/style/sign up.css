@@ -1,0 +1,95 @@
+.student-section {
+    height: 100vh;
+    width: 100%;
+    place-content: center;
+    place-items: center;
+}
+
+.signup-card{
+    height: 750px;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #175862, #021014);
+}
+
+.signup-card .heading h1{
+    font-weight: 900;
+}
+
+/* Username CSS*/
+
+.signup-card .username{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Contact number CSS */
+
+.signup-card .contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Address CSS */
+
+.signup-card .address{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Assigned Vahicle Name CSS */
+
+.signup-card .vehicle-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Vehicle Number CSS */
+
+.signup-card .vehicle-number{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Password CSS */
+
+.signup-card .password{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+

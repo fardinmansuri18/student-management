@@ -1,0 +1,63 @@
+.student-section {
+    height: 100vh;
+    width: 100%;
+    place-content: center;
+    place-items: center;
+}
+
+.school-card{
+    height: 370px;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(50, 99, 101);
+    background: linear-gradient(135deg, #175862, #021014);
+}
+
+.school-card .heading h1{
+    font-weight: 900;
+}
+
+/* School Name CSS */
+
+.school-card .s-name input{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+/* School Address CSS */
+
+.school-card .s-address input{
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

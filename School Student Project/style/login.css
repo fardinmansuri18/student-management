@@ -1,0 +1,50 @@
+.student-section {
+    height: 100vh;
+    width: 100%;
+    place-content: center;
+    place-items: center;
+}
+
+.login-card{
+    height: 400px;
+    min-width: 300px;
+    max-width: 500px;
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(135deg, #175862, #021014);
+}
+
+.login-card .heading h1{
+    font-weight: 900;
+}
+
+/* Contact CSS */
+
+.login-card .contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+/* Password CSS */
+
+.login-card .password{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
